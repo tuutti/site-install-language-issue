@@ -1,0 +1,7 @@
+{
+    "name": "drupal/site_install_demo",
+    "type": "drupal-module",
+    "description": "Site install demo",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev"
+}
