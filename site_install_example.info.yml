@@ -1,7 +1,7 @@
 name: Site install example
 type: module
 package: Custom
-core_version_requirement: ^11
+core_version_requirement: ^10 || ^11
 dependencies:
   - drupal:config_translation
   - drupal:locale
